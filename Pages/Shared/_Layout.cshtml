@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="title" content="Mahabubur Rahaman - Full-Stack Software Engineer">
+    <meta name="keywords" content="Freelancer, Self Employed, Code Crafter, Microsoft technology stack, development stack, tech stack, Microsoft stack, ms stack,full stack developer Microsoft,devops on azure,devops in azure,devops for azure,devops and azure,pipeline azure, server sql, sql sql server, Microsoft management studio, power bi, Microsoft power bi, power bi desktop, power b I download, web-development, website development, web coding, jobs for web developer">
+    <meta name="author" content="Mahabubur Rahaman">
+    <meta name="image" content="https://profile-mahabubur-rahaman.azurewebsites.net/Images/MahabuburRahaman.jpg">
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="English">
+    <meta name="coverage" content="Worldwide">
+    <meta name="distribution" content="Global">
+    <meta name="google-site-verification" content="UrjvsyOLVckemDwWP2DJEDz8cBHHOXIyJCtXGlimhPI" />
+
+    <title>Mahabubur Rahaman - Full-Stack Software Engineer</title>
+
+    <!-- Open Graph Meta Tags for better social media integration -->
+    <meta property="og:title" content="Mahabubur Rahaman - Full-Stack Software Engineer">
+    <meta property="og:description" content="Mahabubur Rahaman, a freelance full-stack software engineer with extensive experience since 2000. Expert in C#, ASP.Net/Core, Python, Android, Java, T-SQL, and more. Providing IT solutions across various domains.">
+    <meta property="og:image" content="https://profile-mahabubur-rahaman.azurewebsites.net/Images/MahabuburRahaman.jpg">
+    <meta property="og:url" content="https://profile-mahabubur-rahaman.azurewebsites.net/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
+
+
+    @* <meta http-equiv="refresh" content="5; url=http://www.google.com"> *@
+    
+    <title>@ViewData["Title"] - Profile of Mahabubur Rahaman</title>    
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MySEOWebsite.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">    
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - MySEOWebsite - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer> *@
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>    
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

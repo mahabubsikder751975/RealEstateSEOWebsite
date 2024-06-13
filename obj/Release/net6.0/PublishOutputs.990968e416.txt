@@ -1,0 +1,7 @@
+C:\Users\mahab\MySEOWebsite\out\MySEOWebsite.exe
+C:\Users\mahab\MySEOWebsite\out\appsettings.Development.json
+C:\Users\mahab\MySEOWebsite\out\appsettings.json
+C:\Users\mahab\MySEOWebsite\out\MySEOWebsite.dll
+C:\Users\mahab\MySEOWebsite\out\MySEOWebsite.deps.json
+C:\Users\mahab\MySEOWebsite\out\MySEOWebsite.runtimeconfig.json
+C:\Users\mahab\MySEOWebsite\out\MySEOWebsite.pdb
