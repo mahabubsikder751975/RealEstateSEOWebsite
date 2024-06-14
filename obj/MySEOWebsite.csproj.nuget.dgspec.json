@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj": {}
+    "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\MySEOWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj": {
+    "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\MySEOWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\MySEOWebsite.csproj",
         "projectName": "MySEOWebsite",
-        "projectPath": "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\MySEOWebsite.csproj",
+        "projectPath": "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\MySEOWebsite.csproj",
         "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahab\\source\\repos\\MySEOWebsite\\obj\\",
+        "outputPath": "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahab\\AppData\\Roaming\\NuGet\\NuGet.Config"
