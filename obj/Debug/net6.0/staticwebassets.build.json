@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "baUsLP5nv2FI7LMhTFq3wblhQSoToDJ7lUina07TVaY=",
+  "Hash": "OKJ4p7ykb/vj+2T7Ue6M+JjjRmea8zSfmpHxFvPoFps=",
   "Source": "MySEOWebsite",
   "BasePath": "_content/MySEOWebsite",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\wwwroot\\Images\\alacartehomepage.jpg",
-      "SourceId": "MySEOWebsite",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\wwwroot\\",
-      "BasePath": "_content/MySEOWebsite",
-      "RelativePath": "Images/alacartehomepage.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\alacartehomepage.jpg"
     },
     {
       "Identity": "C:\\Users\\mahab\\source\\repos\\RealEstateSEOWebsite\\wwwroot\\Images\\logo.jpg",

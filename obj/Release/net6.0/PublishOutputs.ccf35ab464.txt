@@ -1,0 +1,7 @@
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\MySEOWebsite.exe
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\appsettings.Development.json
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\appsettings.json
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\MySEOWebsite.dll
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\MySEOWebsite.deps.json
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\MySEOWebsite.runtimeconfig.json
+C:\Users\mahab\source\repos\RealEstateSEOWebsite\Published\MySEOWebsite.pdb
